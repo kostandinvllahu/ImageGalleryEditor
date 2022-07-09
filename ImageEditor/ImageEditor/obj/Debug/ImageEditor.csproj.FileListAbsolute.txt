@@ -1,0 +1,10 @@
+F:\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+F:\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+F:\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
