@@ -3,11 +3,11 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-class OvalPictureBox : PictureBox
+class OvalPanel : Panel
 {
-    public OvalPictureBox()
+    public OvalPanel()
     {
-        this.BackColor = Color.Red;
+        this.BackColor = Color.DarkGray;
     }
     protected override void OnResize(EventArgs e)
     {

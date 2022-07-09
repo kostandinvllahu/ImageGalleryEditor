@@ -7,5 +7,5 @@ F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
 F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
 F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
 F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
-F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
 F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.test.resources
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
